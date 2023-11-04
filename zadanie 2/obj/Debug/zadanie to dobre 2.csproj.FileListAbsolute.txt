@@ -1,0 +1,7 @@
+E:\repo do visuala\zadanie to dobre 2\zadanie to dobre 2\obj\Debug\zadanie to dobre 2.csproj.AssemblyReference.cache
+E:\repo do visuala\zadanie to dobre 2\zadanie to dobre 2\obj\Debug\zadanie to dobre 2.csproj.CoreCompileInputs.cache
+E:\repo do visuala\zadanie to dobre 2\zadanie to dobre 2\bin\Debug\zadanie to dobre 2.exe.config
+E:\repo do visuala\zadanie to dobre 2\zadanie to dobre 2\bin\Debug\zadanie to dobre 2.exe
+E:\repo do visuala\zadanie to dobre 2\zadanie to dobre 2\bin\Debug\zadanie to dobre 2.pdb
+E:\repo do visuala\zadanie to dobre 2\zadanie to dobre 2\obj\Debug\zadanie to dobre 2.exe
+E:\repo do visuala\zadanie to dobre 2\zadanie to dobre 2\obj\Debug\zadanie to dobre 2.pdb
