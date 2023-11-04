@@ -1,0 +1,7 @@
+E:\repo do visuala\zadanie2\zadanie2\obj\Debug\zadanie2.csproj.AssemblyReference.cache
+E:\repo do visuala\zadanie2\zadanie2\obj\Debug\zadanie2.csproj.CoreCompileInputs.cache
+E:\repo do visuala\zadanie2\zadanie2\bin\Debug\zadanie2.exe.config
+E:\repo do visuala\zadanie2\zadanie2\bin\Debug\zadanie2.exe
+E:\repo do visuala\zadanie2\zadanie2\bin\Debug\zadanie2.pdb
+E:\repo do visuala\zadanie2\zadanie2\obj\Debug\zadanie2.exe
+E:\repo do visuala\zadanie2\zadanie2\obj\Debug\zadanie2.pdb
